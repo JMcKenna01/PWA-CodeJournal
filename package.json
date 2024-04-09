@@ -4,12 +4,14 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "postinstall": "cd client && npm install",
     "start:dev": "concurrently \"npm run server\" \"npm run client\"",
     "start": "node server/server.js",
     "server": "nodemon server/server.js",
     "build": "cd client && npm install && npm run build",
     "client": "cd client && npm start"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
