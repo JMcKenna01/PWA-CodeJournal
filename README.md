@@ -13,6 +13,13 @@ This application utilizes IndexedDB for data persistence, ensuring that users' n
 - **Data Persistence**: Uses IndexedDB for storing and retrieving notes.
 - **Modern JavaScript**: Bundled with webpack and uses Babel for next-gen JavaScript.
 
+## Screenshot
+
+
+![Jate](https://github.com/JMcKenna01/PWA-CodeJournal/assets/147211404/074c814f-a785-40f4-a40e-3b83688b229b)
+
+
+
 ## Mock-Up
 
 Below are some visuals demonstrating the application functionality:
@@ -42,4 +49,9 @@ To run JATE locally or contribute to its development, follow these steps:
 
 ### Installation
 
+
+
+### License
+
+MIT
 
